@@ -1,1 +1,1 @@
-a simple plugin to prevent spectator to go oustide worldbord / tested on 1.21.4
+a simple plugin to prevent spectator going outside worldborder / tested on 1.21.4
