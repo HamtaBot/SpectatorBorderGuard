@@ -1,8 +1,0 @@
-# Number of ticks between each check (20 ticks = 1 second)
-check_interval_ticks: 40
-
-# Margin inside the world border before teleporting the player
-border_margin: 1.0
-
-# Message displayed in the action bar when a player is teleported back inside the world border
-actionbar_message: "&cYou cannot leave the world border in spectator mode."
